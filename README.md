@@ -1,7 +1,8 @@
 Customer Feedback Analysis Dashboard 📊
+
+
 This project is an end-to-end data science application that automatically analyzes customer feedback for a service like Zomato. It uses Natural Language Processing (NLP) to perform sentiment analysis and topic modeling, presenting the results in an interactive web dashboard built with Streamlit.
 
-Live Demo: [Link to your deployed Streamlit app] (You can add this link after you deploy it)
 
 Key Features
 Sentiment Analysis: Classifies customer reviews as positive, negative, or neutral with 83% accuracy using a pre-trained RoBERTa model.
@@ -33,7 +34,7 @@ To set up and run this project on your local machine, follow these steps.
 ### 1. Clone the Repository
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Arpit-saxena-2004/zomato_bert_analysis.git
 cd your-repo-name
 ### 2. Create and Activate an Environment
 It's recommended to use a virtual environment.
