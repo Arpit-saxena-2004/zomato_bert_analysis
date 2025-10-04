@@ -1,0 +1,8 @@
+streamlit==1.50.0
+pandas==2.3.1
+plotly==6.3.1
+scikit-learn==1.7.2
+transformers==4.54.1
+torch#==2.7.1
+nltk==3.9.1
+bertopic==0.17.3
